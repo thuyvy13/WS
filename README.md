@@ -57,13 +57,11 @@ Nếu bạn có bất kỳ ý kiến đóng góp nào cho dự án này, vui lò
 
 ## Tác giả
 
-- Người tạo: [Your Name](https://github.com/yourusername)
-- Email: your@email.com
+- Người tạo: [Your Name]([https://github.com/yourusername](https://github.com/thuyvy13))
+- Email: contact.vyda@gmail.com
 
 ## Giấy phép
 
 Dự án này được phân phối dưới giấy phép [MIT License](https://opensource.org/licenses/MIT).
 
----
 
-Hãy đảm bảo thay thế các phần như `yourusername`, `Your Name`, và `your@email.com` với thông tin của bạn. Đồng thời, đảm bảo cập nhật đường dẫn hình ảnh minh họa trong phần "Hình ảnh minh họa".
