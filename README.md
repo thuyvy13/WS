@@ -57,7 +57,7 @@ Nếu bạn có bất kỳ ý kiến đóng góp nào cho dự án này, vui lò
 
 ## Tác giả
 
-- Người tạo: [Your Name]([https://github.com/yourusername](https://github.com/thuyvy13))
+- Người tạo: [Vy Do]([https://github.com/yourusername](https://github.com/thuyvy13))
 - Email: contact.vyda@gmail.com
 
 ## Giấy phép
